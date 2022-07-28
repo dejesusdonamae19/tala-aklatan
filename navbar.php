@@ -1,5 +1,5 @@
 <header class="main-header">
-  <!-- Logo -->
+  <!-- Logo -->  //edit file
   <a href="index.php" class="logo">
     <!-- mini logo for sidebar mini 50x50 pixels -->
     <span class="logo-mini"><b>T</b>A</span>
