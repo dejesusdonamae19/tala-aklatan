@@ -110,7 +110,7 @@ $(function(){
     datasets: [
       {
         label               : 'Borrow',
-        fillColor           : 'rgba(210, 214, 222, 1)',
+        fillColor           : 'rgba(210, 215, 222, 1)',
         strokeColor         : 'rgba(210, 214, 222, 1)',
         pointColor          : 'rgba(210, 214, 222, 1)',
         pointStrokeColor    : '#c1c7d1',
